@@ -1,6 +1,10 @@
 ## Mangement System
 본 프로젝트는 R
 
+git remote add origin https://github.com/jung-mi-jung/React-Mangenent-Tutorial.git
+git push -u origin master
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
